@@ -1,2 +1,2 @@
 gitpro = "hello world"
-print(gitpro)
+print("hi",gitpro)
